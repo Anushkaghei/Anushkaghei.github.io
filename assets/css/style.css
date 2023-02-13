@@ -9,7 +9,7 @@ body {
 }
 
 a {
-  color: #0563bb;
+  color: #6598c7;
   text-decoration: none;
 }
 
@@ -415,40 +415,19 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  background:#c0e0f0;
-}
-
-.about .content ul {
-  list-style: none;
-  background:#c0e0f0;
-  padding: 0;
-}
-
-.about .content ul li {
-  margin-bottom: 20px;
-  display: flex;
   border-radius: 50px;
-  background:#c0e0f0;
-  align-items: center;
+  background:#cde9f7;
 }
 
-.about .content ul strong {
-  margin-right: 10px;
-  background:#c0e0f0;
-}
-
-.about .content ul i {
-  font-size: 16px;
-  margin-right: 5px;
-  background:#c0e0f0;
-  line-height: 0;
+.about .img-fluid {
+  border-radius: 80px;
 }
 
 .about .content p:last-child 
 {
   font-weight: 600;
   margin-bottom: 100px;
-  border-radius: 10px;
+  border-radius: 50px;
   margin-top: 50px;
   margin-right: 40px;
   right:800px;
