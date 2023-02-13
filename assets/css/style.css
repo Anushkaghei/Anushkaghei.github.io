@@ -420,7 +420,7 @@ section {
 
 .about .content ul {
   list-style: none;
-  border-radius: 25px
+  border-radius: 25px;
   background:#c0e0f0;
   padding: 0;
 }
