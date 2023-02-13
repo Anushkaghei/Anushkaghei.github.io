@@ -420,7 +420,6 @@ section {
 
 .about .content ul {
   list-style: none;
-  border-radius: 25px;
   background:#c0e0f0;
   padding: 0;
 }
@@ -428,6 +427,7 @@ section {
 .about .content ul li {
   margin-bottom: 20px;
   display: flex;
+  border-radius: 50px;
   background:#c0e0f0;
   align-items: center;
 }
