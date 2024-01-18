@@ -15,7 +15,7 @@ Welcome to my personal portfolio website! This repository contains the source co
 I would love to connect with you! Feel free to reach out through the following channels:
 
 - Email: [anuacademic7@gmail.com](mailto:anuacademic7@gmail.com)
-- LinkedIn [Anushkaghei](https://www.linkedin.com/in/anushkaghei/)
+- LinkedIn: [Anushkaghei](https://www.linkedin.com/in/anushkaghei/)
 
 ---
 
