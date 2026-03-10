@@ -152,16 +152,16 @@ export const education = [
   {
     degree: "Master of Science in Computer Science",
     school: "University at Buffalo, SUNY",
-    period: "Aug 2024 – Dec 2025",
-    description: "Specializing in AI/ML. Coursework: Machine Learning, Computer Vision, Data Intensive Computing, Analysis of Algorithms.",
-    gpa: "3.7/4.0",
+    period: "Aug 2025 – Dec 2026",
+    description: "Specializing in AI/ML. Coursework: Machine Learning, Data Intensive Computing, Analysis of Algorithms, Computer Security, Deep Learning, Data Models and Query Languages, Operating Systems.",
+    gpa: "3.4/4.0",
   },
   {
     degree: "Bachelor of Technology in Computer Science",
     school: "PES University, Bangalore",
-    period: "Aug 2020 – May 2024",
+    period: "Sep 2021 – May 2025",
     description: "Focus on AI, Data Science, and Software Engineering. Active in research and published 5 papers at IEEE conferences.",
-    gpa: "8.6/10",
+    gpa: "8.3/10",
   },
 ];
 
@@ -205,31 +205,24 @@ export const experience = [
 
 export const recentUpdates = [
   {
-    date: "Mar 2026",
+    date: "Jan 2026 - Now",
     title: "Building Clinical Data Pipelines at Weiss Labs",
     description: "Designing end-to-end pipelines for analyzing large-scale Fitbit time-series data from a 12-week clinical trial, applying mixed-effects modeling and predictive analysis for sleep outcome evaluation.",
     tags: ["Data Engineering", "Clinical Research", "Python"],
     emoji: "🔬",
   },
   {
-    date: "Feb 2026",
+    date: "Feb 2026 - Now",
     title: "InterviewIQ: Multi-Turn AI Interview System",
     description: "Building a context-aware, retrieval-augmented dialogue system that conducts realistic technical interviews with adaptive question generation and automated candidate response evaluation across 10–20 conversational turns.",
     tags: ["LLMs", "RAG", "NLP", "Interview AI"],
     emoji: "🎯",
   },
   {
-    date: "Jan 2026",
+    date: "March 2026 - Now",
     title: "SecureAI Monitor: LLM Audit & Security Platform",
     description: "Designing a unified database architecture for tracking LLM API usage, cost attribution by team, and cross-domain correlation between cybersecurity incidents and active AI model integrations.",
     tags: ["Database Design", "Security", "Enterprise"],
     emoji: "🛡️",
-  },
-  {
-    date: "Dec 2025",
-    title: "Finishing MS Coursework at UB",
-    description: "Completed advanced coursework in Machine Learning, Computer Vision, and Data Intensive Computing. Preparing for graduation!",
-    tags: ["Academics", "ML", "Computer Vision"],
-    emoji: "🎓",
   },
 ];
